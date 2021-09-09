@@ -64,7 +64,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: rgb(190, 144, 242);
   margin-right: 0.5ch;
   vertical-align: top;
 }
@@ -87,7 +87,7 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(88, 96, 105);
+  color: rgb(190, 144, 242);
 }
 
 .percent {
